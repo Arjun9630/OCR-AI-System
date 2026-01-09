@@ -1,6 +1,5 @@
 import os
 
-
 def load_documents(base_path="test_documents"):
     """
     Loads OCR text files and assigns labels based on folder name.
