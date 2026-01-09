@@ -1,0 +1,187 @@
+
+--- Page 1 ---
+| WF
+ia  Microsoft                                     Get Licensing Ready
+
+EA: Enterprise Enrollment and Enterprise Subscription Enrollment
+
+General information for Enterprise Enrollments and Enterprise Subscription Enrollments
+
+Agreement structure                                                                      Affiliates
+
+The starting point of every Enterprise Agreement is an MBSA (Microsoft Business         e An affiliate organization is one that
+and Services Agreement). The MBSA is an umbrella agreement under which an                controls, is controlled by, or is under
+Enterprise Agreement sits. It is an evergreen agreement between an organization              common control with the customer,
+and Microsoft, and contains high level terms and conditions. After the MBSA has             where control means ownership of
+been signed, the organization can sign multiple agreements under it. The                      more than a 50% interest of voting
+Enterprise Agreement is the foundation for a set of Enterprise Agreement                        securities in an entity, or the power to
+Enrollments.                                                                                             direct the management and policies of
+There are three Enrollments available: the Enterprise Enrollment and Enterprise                 an entity
+
+Subscription Enrollment, for desktop products, and the Server and Cloud                  e Affiliates must consist of entire legal
+Enrollment, for server products and Azure. All Enrollments require a three-year                 entities
+
+commitment. This document focuses specifically on the Enterprise Enrollment             e Each affiliate must be entirely “in” or
+and Enterprise Subscription Enrollment.                                                       entirely “out”
+
+Commitments and products                                              Price levels
+
+Conniiment to license all devices with one or more                     The initial order of Enterprise
+Enterprise Products, and to buy all licenses with Software             Products sets the price level for the           500             A
+Assurance                                                                       3-year Enrollment. Actual pricing for         2,400              B
+e Windows 11 Enterprise                                          the Enterprise Products is agreed           6,000            C
+° Office Professional Plus 2021                                      when the Enrollment is signed.             15,000             D
+e Core CAL Suite
+e Enterprise CAL Suite                                                Enterprise Products and Platforms
+Minimum of 500 Qualified Devices                                        e An organization must commit to purchasing one of the
+Enterprise Products for every Qualified Device in their estate
+Qualified Devices                                                           e If they choose one product from each pool, then they are
+Any device that is:                                                               said to have a Platform and that attracts a further discount
+e Apersonal desktop computer, portable computer,             e Organizations can choose between the Professional Desktop
+workstation or similar device capable of running                     Platform and the Enterprise Desktop Platform, where it's the
+Windows Professional locally (in a physical or virtual               CAL Suite that differentiates between the two Platforms
+
+operating system environment), or
+
+                                          Systems
+-    ‘ device used to access a Virtual Desktop Infrastructure          a i      = Windows11
+xceptions:                                                                      A          Enterprise
+e A PCused as a server                                                     —
+e ALLine of Business (or Industry) device                             Applications         CT} Office 2021
+e Anunmanaged device                                             Client applications              Professional Plus
+
+erver®       Core CAL Suite Enterprise CAL Suite
+
+End of Enrollment options                                               Server Operating Systems,     Client Access License         Client Access License
+
+Server applications and CALs
+
+Enterprise Enrollment end
+
+1. Sign a new Enrollment                                               Additional Products
+e Software Assurance is renewed on Enterprise Products            e Most software products and Online Services are available
+and Additional Products                                                e No requirement for an enterprise wide commitment
+e Online Services Subscriptions are renewed                           ° May be ordered in any quantity
+Enterprise Subscription Enrollment end                                    e Price level is set by the corresponding Enterprise Product
+1. Sign a new Enrollment                                                         pool
+2. De-install software                                                          e Pricing is agreed for any Additional Products on the
+
+3. Buy-out the licenses:
+e Agreed price
+e For increased Qualified Devices in the third year an
+annual fee prior to buy-out must also be paid
+e ALL Enterprise Products must be bought out
+e Any quantity of Additional Products may be bought out                 Anniversary
+
+initial order
+
+e Further Additional Products may be purchased through
+the term of the Enrollment
+
+e Licenses for Online Services may be reduced at
+
+--- Page 2 ---
+EA: Enterprise Enrollment and Enterprise Subscription Enrollment - continued
+
+Enterprise Enrollment                                          Enterprise Subscription Enrollment
+
+Enterprise Products orders                                                Enterprise Products Annual Orders
+
+In the diagram below a customer has committed to Office             In the diagram below a customer has committed to an Enterprise
+
+Professional Plus 2021 as their Enterprise Product for their             Product for 1,900 devices and at the start of the Enrollment
+
+2,950 Qualified Devices. At the start of the Enrollment the price      agrees prices for all price levels.
+
+of the license plus three years of Software Assurance is agreed        At the start of the Enrollment they pay for the Enterprise
+
+with the customer and split into three. This is the amount that        Products at the Level A price.
+
+the customer pays for the Office licenses each year.                    At the beginning of the next year they have an additional 600
+devices which makes them eligible for Level B pricing. They make
+
+If they add more Qualified Devices in the first year they make a      a payment for the Enterprise Products at the agreed Level B
+
+single True Up payment at Anniversary. This is the license cost       price.
+
+and 2.5 years of Software Assurance and is agreed with the            In the third year they have only 2,200 devices and they make a
+
+customer at the start of the Enrollment.                                       payment for that number of devices at the agreed Level A price.
+
+Further Qualified Devices are paid for at the end of the years in                                                   |
+which they are added, with payment for devices added in the                                                      |           D
+third year due at the end of the Enrollment.
+
+                                                      C
+:                                                    4                                                                                                     At first Anniversary:
+wv Agreed annual price      ~ Ow  Agreed True-Up prices                                                                              2,500 Qualified Devices: payment of
+2,500 x pre-established price (Band B)
+Initial order of 2,950 Office                                                                                                                                                                                                                                                              B
+Professional Plus 2021 licenses       Annual               Annual                  Annual
+payment              payment                payment                                               Initial order: 1,900 Qualified                                                                  vy
+A total of 25 Qualified Devices                                                                                                      Devices: initial payment of                                                         i
+At second Anniversary:
+=’ at various points in first               True-Up                                                                                      1,900 x pre-established price                                          2,200 Qualified a payment of
+y                                                  payment                                                                                                 (Band A)                                                                            2,200 x pre-established price (Band A)
+30 Qualified Devices added
+towards the end of the second                                               True-Up
+year                                                                       payment
+10 Qualified Devices added at
+the beginning of the third year                                                                       True-Up   ~                                                               Start of
+payment
+Enrollment                           End of year 1                 End of year 2
+Start of
+Enroliment              Endofyear! End of year 2            Eadjatiyents                          Additional Products orders
+
+In the diagram below a customer ordered 350 Visio licenses at
+the start of the Enrollment and makes the first annual payment
+at an agreed price. In the first year they need another 25
+licenses and they pay for those licenses as they install the
+products at the agreed price. At the first Anniversary they will
+still need 375 Visio licenses and make the annual payment at
+the agreed price. At the start of the third year they just need
+350 Visio licenses and that's what they pay for.
+
+Additional Products orders
+
+In the diagram below a customer ordered 350 Visio licenses at
+the start of the Enrollment and makes three annual payments
+in the same way as for the Enterprise Products above. When
+they add a further 25 licenses in the first year they make a
+single True Up payment at Anniversary.
+
+If they want to add a new Additional Product in year 2 they            In the second year they want to add 30 Project licenses. They
+make a single payment at that time. The price is taken from the      pay for those licenses at the current price list price as they
+current price list and is the license cost plus 1.5 years of SA. If        install the products. That price is then the price they pay at the
+they add a product in year 3 they make a single payment             start of the third year.
+
+which is the license cost plus 0.5 years of SA.                            If licenses are added in the third year, then the customer pays
+
+at that moment in time using the price list price.
+
+Agreed annual price          Agreed True-Up price          Prices based on current price list
+Y   9              P           v   g             PP         ae                           P                                                                     .e  Agreed annual prices    e. Prices based on current price list
+
+Initial order of 350 Visio               Annual                  Annual                     Annual
+2021 Standard licenses               payment              payment            y  payment                                         Initial order of 350 Visio            Annual           rss  Annual                   Annual
+2021 Standard licenses            payment             payment               payment
+25 Visio 2021 Standard                    .
+sdinnie added in first year                   mee                                                                                         ay Wap Sanita              anwapeyment
+payment                                                                                                      licenses added in first year                  +                   Annual  ,
+paymen
+30 Project Standard 2021                                          Single
+licenses added in second year                                   payment  we                                                                30 Project Standard 2021                                       Single                   Annual
+licenses added in second year                                 payment  we           payment
+10 SQL Server CALs added                                                                  Sinal
+in third year                                                                                     ae     a                                                                                                                                      :
+payment                                             10 SQL Server CALs added                                                                | _ Single     we
+in third year                                                                                         payment
+Start of
+Enrollment                  End of year 1            End of year 2         End of year 3                                                Start of
+
+Enrollment                     End of year 1            End of year 2            End of year 3
+
+Get Licensing  Read                     © 2022 Microsoft Corporation. All rights reserved. Microsoft provides this material solely for informational purposes. Details may vary by geography.
+
+MICROSOFT MAKES NO WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, AS TO THE INFORMATION IN THIS DOCUMENT. v22.40
+

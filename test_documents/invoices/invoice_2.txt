@@ -1,0 +1,28 @@
+sae slack            INVOICE
+
+# 1223113
+
+Slack
+500 Howard Street
+San Francisco, CA                 Date: Dec1, 2023
+94105
+
+Payment Terms: Net 45
+Bill to:
+MineralTree
+101 Arch Street            Balance Due: $1,725.00
+Boston, MA
+02110               Balance Due: $1,725.00
+
+Due Date: Jan 15, 2024
+
+Item                             Quantity Rate Amount
+
+Business+ Monthly         115       $15.00 $1,725.00
+User License -
+August 2023
+
+Subtotal:       $1,725.00
+Tax (0%):           $0.00
+Total:       $1,725.00
+

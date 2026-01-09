@@ -1,0 +1,34 @@
+Flevate °             PROFORMA
+Consulting                 INVOICE
+
+Elevate Consulting
+2132 Duncan Street
+San Francisco
+
+CA 94131
+
+United States
+
+App Revolution
+
+3332 Stevens Creek Blvd
+San Jose
+
+CA 95129
+
+United States
+Invoice number:            1001
+
+Invoice date:       07/06/2025
+Due date:           30/06/2025
+
+Product                                      Hourly rate        Quantity            Tax rate                Amount
+
+Project consulting               $150.00          10                10%              $1 500.00
+
+Subtotal:          $1 500.00
+Tax:                 $150.00
+Invoice total:        $1 650.00
+
+Sign to accept:
+

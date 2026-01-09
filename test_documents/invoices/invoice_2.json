@@ -1,0 +1,9 @@
+{
+    "document_type": "Invoice",
+    "invoice_number": "1223113",
+    "invoice_date": "Dec1, 2023",
+    "due_date": "Jan 15, 2024",
+    "bill_to": "MineralTree",
+    "subtotal": "1,725.00",
+    "total_amount": "1,725.00"
+}

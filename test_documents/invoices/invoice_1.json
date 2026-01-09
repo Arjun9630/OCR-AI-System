@@ -1,0 +1,9 @@
+{
+    "document_type": "Invoice",
+    "invoice_number": "12074",
+    "invoice_date": "2024-07-19",
+    "bill_to": "Customer Name",
+    "subtotal": "2,300.00",
+    "tax": "138.00",
+    "total_amount": "2,300.00"
+}

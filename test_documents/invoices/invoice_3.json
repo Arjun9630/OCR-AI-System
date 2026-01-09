@@ -1,0 +1,7 @@
+{
+    "document_type": "Invoice",
+    "invoice_number": "1001",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-06-30",
+    "tax": "150.00"
+}

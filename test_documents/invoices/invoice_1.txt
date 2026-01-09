@@ -1,0 +1,28 @@
+INVOICE
+
+Invoice #: 12074
+
+Photography
+Invoice                    Invoice date: 7/19/24
+Job Details: Photo Shoot
+123 Street Name                                              Bill to: Customer Name
+Denver, CO 80205                                             Address: 123 Street Name
+P: 555-555-5555                                                               Denver, CO 80205
+cmail@samplebusiness.com                                                Phone: 555-555-5555
+Description         Qty      Unit price Discount            Price
+Wedding Ceremony Photos             1       $1,500.00                      $1,500.00
+Bride & Groom Portraits                   1          $500.00                          $500.00
+Engagement Photoshoot                    1          $300.00                            $300.00
+$0.00
+$0.00
+$0.00
+$0.00
+Invoice Subtotal $2,300.00
+Tax Rate         6.00%
+Sales Tax          $138.00
+Deposit Received          $50.00
+
+TOTAL $2,388.00
+
+Please make all checks payable to Wedding Photography.
+email@samplebusiness.com | www.samplebusiness123.com
