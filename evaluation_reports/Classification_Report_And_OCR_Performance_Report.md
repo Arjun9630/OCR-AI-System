@@ -70,15 +70,14 @@ These documents represent realistic business use cases and varying document layo
 | CPU Usage | High during OCR (expected behavior) |
 | Noise Sensitivity | Moderate for low-quality scans |
 
-MODEL EVALUATION:
+### Model Evaluation Report:
 
-              precision    recall  f1-score   support
+                    precision    recall  f1-score   support
 
-     invoice       1.00      1.00      1.00         1
-
-    accuracy                           1.00         1
-   macro avg       1.00      1.00      1.00         1
-weighted avg       1.00      1.00      1.00         1
+    invoice          1.00        1.00      1.00         1
+    accuracy                               1.00         1
+    macro avg        1.00        1.00      1.00         1
+    weighted avg     1.00        1.00      1.00         1
 
 
 ### Optimization Applied:
